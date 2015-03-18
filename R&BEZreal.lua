@@ -1,1 +1,1 @@
-local version = 2.0
+local CurVer = 2.0
